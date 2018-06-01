@@ -11,6 +11,13 @@
     "authors": [{
         "name": "Jason Lewis",
         "email": "jason.lewis1991@gmail.com"
+    },{
+        "name": "Guo Xiang",
+        "email": "code.tridiamond@gmail.com"
+    }],
+    "repositories": [{
+        "type": "composer",
+        "url": "http://tw.packages.develop.com:8888"
     }],
     "require": {
         "php": "^7.0",
